@@ -39,7 +39,7 @@ const FRONTEND_URLS = process.env.FRONTEND_URLS?.split(',') || [
 
 const allowedOrigins = [
   'https://travel-itenary-dashboard-me.vercel.app',
-  'https://travel-gpt-roan.vercel.app/',
+  'https://travel-gpt-roan.vercel.app',
   'http://localhost:5173',
   'http://localhost:5174',
 ];
